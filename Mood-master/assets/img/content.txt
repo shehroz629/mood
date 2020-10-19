@@ -1,0 +1,95 @@
+Newest Interior Template --- slider
+
+<h1>WOODPECKER</h1>
+
+<a href="#">VIEW MORE >></a>
+
+-=================== SLIDEDR 2 ====================-
+
+<h2>WELCOME</h2>
+<p>Woodpecker is a team of professional in the wood processing<br>
+and the creation of wooden furniture of the highest class. We<br>
+are a family of artisans and designers who believe that to make <br>
+things well, you must put your heart in it. Unique, quality wood<br>
+products you will keep forever. We are glad to have you around!<br>
+</p>
+
+<p>Our tema takes over everything,form an idea and concept<br>
+development to realizatoin. We belive in traditoins and<br>
+incorporate them within our innovations. All our projects<br>
+incorporate a unique artistic image and functional soluctions.<br>
+Clients is the soul fo the projects. Our main goal is to illustrate<br>
+his/hers values and individuality through design. Our clients are<br>
+daring and successful people, businessmen and celebrities,IT<br>
+compaines and large banks, media companies and creative<br>
+agencies, store and restaurant chains, international developing<br>
+compaines, educational centers and public institutions. All our<br>
+clients have one prevalling trait-they are bold and modren, they<br>
+like to stay ahead of trends, and work with the best.</p>
+
+<p>Subscribe to our email list or follow for updates<br>
+hello@woodpecker.com</p>
+
+<ul>
+  <li><a href="#">FACEBOOK/</a></li>
+  <li><a href="#">TWITTER/</a></li>
+  <li><a href="#">BEHANCE/</a></li>
+  <li><a href="#">INSTAGRAM</a></li>
+</ul>
+
+-================================ 3SLIDER ================================-
+
+<h2>WOOD MAKE <br>GOOD STUFF</h2>
+
+<i class="fa fa-home"></i>
+<h4>ARCHITECTURAL PLANING</h4>
+<p>We design in a way, that every square meter justifies itself.<br>
+We create energetic and lively architecture. Places one<br>
+longs to return to.</p>
+
+
+<i class="fa fa-paint-brush"></i>
+<h4>INTERIOR DESIGN</h4>
+<p>Mixing styles, while incorporating custom designed wood<br>
+products. Living through design process and making it<br>
+comfortable for life.</p>
+
+
+<i class="fa fa-gift"></i>
+<h4>PRODUCT DESIGN</h4>
+<p>We create custom designed wood products and wood<br>
+furniture for people that follow trends and wish their<br>
+interior to concord.</p>
+-=========================================================================-
+<h3>INTERIOR<br>SAYS<br>WHO YOU<br>ARES</h3>
+
+<p>Vestibulum mollis varius massa, vitae selerisquefelis<br>
+imperdiet vitae. Vivamus auctor vel enim suscipit utrices.Cum<br>
+sociis natoque penatibus et magnis dis parturient montes,<br>
+nascetur ridiculus mus, Fusce egestas diam eget mollis sodales,<br>
+Mauris feugiat feugiat nisi, quis luctus lacus rhoncus non.<br>
+Donec eu justo lacus.Cras eu velit gravi,interdum turpis at,<br>
+auctor eros.suspendisse eget placerat nulla. Nam pretium<br>
+elementum mauris ut ullamcorper.Vestubulum blandit lectus<br>
+diam,nec vestibulum mi dignissim ac. Curabitura a pheretra <br>
+magna. Duis pu;vinar nec tortor a pharetra. Nam viverra, lorem<br>
+vel blandit suscipit,odio mi tincidunt ipsum, eget.vulputate<br>
+dolor erat eget lacus.Sed eleifend sodales ipsum,non convallis<br>
+lacus aliquet vitae. Dius pharetra a nibh nec tempor.</p>
+
+-===========================================================================-
+
+<h2>LATEST<br>PUBLICATIONS</h2>
+
+<h5>SWEETEST CAFE</h5>
+<p><em>June 09,2018/by Author/3 Comments</em></p>
+<p>Integer nec rutrum uran. Nullam imperdiet<br>
+tortor ultrices mattis aliquam. Donec et effic<br>
+risus,ac aliquam tellus.Fesce nec feugiat ex.</p>
+<button>READ MORE</button>
+
+LOFT IDEAS
+SWEET DREAMS IN NEW HOME
+EVERYTHING DETAILS
+STORY ABOUT MINIMALISM
+OLD BUILDINGS TESUSCITATION
